@@ -1,4 +1,5 @@
 name: "Suggest a new feature or improvement"
+description: Help us improve your Windows Sandbox experience!
 labels:
 - feature-request
 body:
