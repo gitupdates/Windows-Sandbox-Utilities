@@ -39,12 +39,7 @@ Here is a list of great repositories made by the community - feel free to browse
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2><strong>GUI Tools</strong></td>
-            <td><a href="https://github.com/damienvanrobaeys/Windows_Sandbox_Editor">Windows Sandbox Editor</a></td>
-            <td>Damien Van Robaeys</td>
-            <td>GUI for generating and managing Windows Sandbox. <a href="http://www.systanddeploy.com/2019/07/windows-sandbox-editor-update.html">Blog post.</href></td>
-        </tr>
-        <tr>
+            <td rowspan=1><strong>GUI Tools</strong></td>
             <td><a href="https://github.com/damienvanrobaeys/Run-in-Sandbox">Run in Sandbox Context Menu</a></td>
             <td>Damien Van Robaeys</td>
             <td>Adds right-click context menus for running scripts, applications, and more in Windows Sandbox</td>
