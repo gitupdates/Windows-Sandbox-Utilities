@@ -14,14 +14,10 @@ This way we can measure how impactful an issue is.
 If no existing item describes your issue/feature, great - please file a new issue:
 
 ### What type of issue do I file?
-- Don't know whether you're reporting an issue or requesting a feature? File an issue
-- Want to know if we're planning on building a particular feature? File a feature request
-- Got a great idea for a new feature? File a feature request
-- Found issues in our repository? File an issue
-- Found issues in our documentation? File a documentation issue
-- Have a question that you don't see answered in docs, blogs, etc.? File a documentation issue
-- Don't understand how to do something? File a 'help-wanted' issue
-- Found an existing issue that describes yours? Great - upvote and add additional commentary / info / repro-steps / etc.
+- Found issues in our repository or in Windows Sandbox? __File a bug__
+- Got a great idea for a new feature? __File a feature request__
+- Found issues in our documentation or have a question that you don't see answered in docs, blogs, etc.? __File a documentation issue__
+- Found an existing issue that describes yours? __Great - upvote and add additional commentary / info / repro-steps / etc.__
 
 In general, when you hit "New Issue", select the type of issue closest to what you want to report/ask/request.
 
