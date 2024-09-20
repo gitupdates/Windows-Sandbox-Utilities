@@ -1,5 +1,5 @@
-name: "Documentation Issue"
-description: Report issues in our documentation
+name: "Documentation feedback or issue"
+description: Report any issues or share suggestions for improving our documentation
 labels: 
 - Documentation
 body:
